@@ -1,5 +1,7 @@
 # You are the key!
 
+NOTE: experimental of course! 
+
 
 Key recovery or self custody using just yourself as the key material (and memorising a simple phrase of your own choice).
 
